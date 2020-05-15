@@ -3,3 +3,4 @@ A simple, DOS based, multiplayer Tic-Tac-Toe game
 Made with C++.
 
 # Game screenshots
+![image](../master/tic.png)
