@@ -3,7 +3,7 @@
 A command console based multiplayer <strong>Tic-Tac-Toe game</strong>
 Made with C++.
 
-With added easter eggs 😏😏😁
+<strong>With added easter eggs 😏😏😁</strong>
 
 # Game screenshots
 
