@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
-A console based multiplayer Tic-Tac-Toe game
+
+A command console based multiplayer <strong>Tic-Tac-Toe game</strong>
 Made with C++.
 
 With added easter eggs 😏😏😁
