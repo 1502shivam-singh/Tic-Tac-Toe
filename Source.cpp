@@ -1,6 +1,6 @@
 #include<iostream>
 
-char P1[3][3] = { { '_','_','_' },{ '_','_','_' },{ '_','_','_' } };
+char P1[3][3] = { { '_','_','_' },{ '_','_','_' },{ '_','_','_' } };		//Empty array to store the X and Os  
 
 void display_matrix();
 
